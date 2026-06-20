@@ -41,7 +41,6 @@ Currently at **Dell Technologies**, I manage GitLab for 200+ engineers, drive Gi
 |---------|-------------|------------|------|
 | **DevOps Mastery Guide** | Comprehensive, production-grade learning resource covering Linux, Ansible, Docker, Kubernetes, Terraform, Prometheus, Grafana, GitOps, and more. Built as a reference-grade guide with theory, examples, and exercises. | Multiple | [View Repo](https://github.com/deepakv30/devops-mastery-guide) |
 | **ineuron DevOps Assignments** | Collection of practical DevOps assignments demonstrating CI/CD pipelines, Infrastructure as Code, containerization, and automation best practices. | Docker, Kubernetes, Ansible, Jenkins | [View Repo](https://github.com/deepakv30/ineuron_devops) |
-| **Personal Portfolio** | Professional portfolio website showcasing DevSecOps experience, projects, certifications, and technical impact. | HTML, CSS, JavaScript, Bootstrap | [View Site](https://deepakv30.github.io/) |
 
 ---
 

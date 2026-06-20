@@ -39,8 +39,8 @@ Currently at **Dell Technologies**, I manage GitLab for 200+ engineers, drive Gi
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **DevOps Mastery Guide** | Structured reference platform documenting production-grade DevOps practices across the full toolchain. Demonstrates deep expertise in automation, orchestration, observability, Infrastructure as Code, and GitOps through theory, practical implementations, and best practices. | Multiple | [View Repo](https://github.com/deepakv30/devops-mastery-guide) |
-| **Personal Portfolio** | Professional portfolio website showcasing DevSecOps experience, technical projects, certifications, and measurable impact in automation and platform engineering. | HTML, CSS, JavaScript, Bootstrap | [View Site](https://deepakv30.github.io/) |
+| **DevOps Mastery Guide** | Authoritative reference platform documenting production-grade DevOps practices across the full toolchain. Demonstrates comprehensive expertise in automation, GitOps, observability, and secure delivery through structured theory, practical examples, and best practices. | Multiple | [View Repo](https://github.com/deepakv30/devops-mastery-guide) |
+| **Personal Portfolio** | Professional showcase of DevSecOps expertise featuring real-world projects, measurable impact in automation and platform engineering, and industry-recognized certifications. | HTML, CSS, JavaScript, Bootstrap | [View Site](https://deepakv30.github.io/) |
 
 ---
 

@@ -39,11 +39,9 @@ Currently at **Dell Technologies**, I manage GitLab for 200+ engineers, drive Gi
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **DevOps Mastery Guide** | Comprehensive, production-grade learning resource covering Linux, Ansible, Docker, Kubernetes, Terraform, Prometheus, and more. | Multiple | [View Repo](https://github.com/deepakv30/devops-mastery-guide) |
-| **LinkedIn Automation Bot** | End-to-end automation pipeline using Docker, Kubernetes, Terraform & GitLab CI. | Docker, K8s, Terraform, GitLab CI | [View Repo](https://github.com/deepakv30/) |
-| **Multi-Account AWS IaC** | Enterprise Terraform modules for multi-account AWS landing zone with EKS. | Terraform, AWS, EKS | [View Repo](https://github.com/deepakv30/) |
-
-> **Note**: Replace the links above with your actual repository URLs.
+| **DevOps Mastery Guide** | Comprehensive, production-grade learning resource covering Linux, Ansible, Docker, Kubernetes, Terraform, Prometheus, Grafana, GitOps, and more. Built as a reference-grade guide with theory, examples, and exercises. | Multiple | [View Repo](https://github.com/deepakv30/devops-mastery-guide) |
+| **Ultimate CI/CD** | End-to-end CI/CD automation project demonstrating modern pipelines, security scanning, and deployment strategies. | Docker, Kubernetes, GitLab CI/CD, Terraform | [View Repo](https://github.com/deepakv30/Ultimate_CICD) |
+| **Personal Portfolio** | Professional portfolio website showcasing DevSecOps experience, projects, and certifications. | HTML, CSS, JavaScript, Bootstrap | [View Site](https://deepakv30.github.io/) |
 
 ---
 

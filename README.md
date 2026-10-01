@@ -39,7 +39,7 @@ Currently at **Dell Technologies**, I manage GitLab for 200+ engineers, drive Gi
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Apna Hisab** | Live bill-splitting PWA for friends, trips, and flats—track who owes whom and settle up without spreadsheet math. (Source private.) | React, Firebase, PWA | [Live](https://apna-hisab.ai.studio) |
+| **Apna Hisab** | Live bill-splitting PWA for friends, trips, and flats—track who owes whom and settle up without spreadsheet math. (Source private.) | React, Firebase, PWA | [Live](https://apna-hisab-xblj7muxgq-el.a.run.app/) |
 | **DevOps Mastery Guide** | Authoritative reference platform documenting production-grade DevOps practices across the full toolchain. Demonstrates comprehensive expertise in automation, GitOps, observability, and secure delivery through structured theory, practical examples, and best practices. | Multiple | [View Repo](https://github.com/deepakv30/devops-mastery-guide) |
 | **Personal Portfolio** | Professional showcase of DevSecOps expertise featuring real-world projects, measurable impact in automation and platform engineering, and industry-recognized certifications. | HTML, CSS, JavaScript, Bootstrap | [View Site](https://deepakv30.github.io/) |
 | **Hangman** | Clean, tested, CI-enabled Python Hangman CLI with ASCII art, input validation, and a focused command-line UX. | Python | [View Repo](https://github.com/deepakv30/Hangman) |

@@ -8,7 +8,7 @@ I build secure, scalable, and automated platforms that help engineering teams sh
 
 ### 🚀 About Me
 
-I'm a passionate **DevSecOps Engineer** with hands-on experience in large-scale infrastructure, CI/CD automation, and GitOps. 
+I'm a passionate **Platform / DevOps Engineer** with hands-on experience in large-scale infrastructure, CI/CD automation, and GitOps. 
 
 Currently at **Dell Technologies**, I manage GitLab for 200+ engineers, drive GitOps adoption with ArgoCD on EKS, and embed security into every stage of the delivery pipeline. I love solving complex infrastructure problems and turning manual processes into reliable automation.
 
